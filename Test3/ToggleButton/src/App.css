@@ -1,0 +1,13 @@
+.btn{
+  border: none;
+  border-radius: 3px ;
+  padding: 5px;
+  margin: 2px;
+  height: 50px;
+  width: 100px;
+  font-size: larger;
+  background-color: darkgoldenrod;
+}
+.btn:hover{
+  background-color: brown;
+}
