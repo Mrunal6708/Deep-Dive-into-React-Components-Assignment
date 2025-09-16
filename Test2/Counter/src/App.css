@@ -1,0 +1,22 @@
+.countercom{
+  border: 1px solid #ccc;
+  padding: 16px;
+  width: 250px;
+
+   h2{
+    color: black;
+   }
+  
+   p{
+    font-size: medium;
+    color: #212121;
+   }
+
+  .btn1{
+      background-color: #ccc;
+      margin-right: 8px;
+   }
+  .btn2{
+      background-color: #ccc;
+  }
+}
